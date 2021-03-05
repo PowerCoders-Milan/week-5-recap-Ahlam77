@@ -17,6 +17,6 @@ console.log("There are " + leter +" letters");
 }
 
 
-
+getArray(array1);
 getArray(array2);
 
