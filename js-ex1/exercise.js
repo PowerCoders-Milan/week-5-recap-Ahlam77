@@ -18,5 +18,5 @@ console.log("There are " + leter +" letters");
 
 
 
-
+getArray(array2);
 
