@@ -13,3 +13,6 @@ function myArray (){
 console.log(result);
 
 myArray()
+
+
+
